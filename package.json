@@ -1,6 +1,7 @@
 {  "name": "stripe-backend-vercel",
   "version": "1.0.0",
   "type": "module",
+  "engines": { "node": "20.x" },
   "dependencies": {
     "stripe": "^16.0.0",
     "raw-body": "^2.5.2"
